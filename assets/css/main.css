@@ -276,7 +276,7 @@ h1 {
 
 h1 strong {
   font-weight: 700;
-  color: rgba(104, 32, 32, 0.959);
+  color: rgb(247, 191, 6);
 }
 
 h2 {
@@ -2115,7 +2115,7 @@ ul.actions li:first-child {
   padding: 20px;
   margin: 15px;
   z-index: 1;
-  opacity: 0.9;
+  opacity: 1.9;
   
 }
 .section p {
@@ -2126,7 +2126,7 @@ ul.actions li:first-child {
 	margin: 10px;
 	z-index: 1;
 	opacity: none;
-	color: #242424;
+	color: #ece5e5;
   }
 
   .section h2 {
@@ -2137,7 +2137,7 @@ ul.actions li:first-child {
 	margin: 15px;
 	z-index: 1;
 	opacity: none;
-	color: #242424;
+	color: #ecd8d8;
   }
 
 
@@ -2152,10 +2152,10 @@ ul.actions li:first-child {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgb(138, 145, 148);
+  background-color: rgb(158, 158, 151);
   width: 100%;
   height: 100vh;
-  opacity: 0.5;
+  opacity: 0.4;
 }
 
 .wrapper.style2 {
