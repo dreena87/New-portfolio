@@ -277,6 +277,9 @@ h1 {
 h1 strong {
   font-weight: 700;
   color: rgb(247, 191, 6);
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
 }
 
 h2 {
