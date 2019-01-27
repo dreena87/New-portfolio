@@ -275,8 +275,8 @@ h1 {
 }
 
 h1 strong {
-  font-weight: 700;
-  color: rgb(247, 191, 6);
+  font-weight: 500;
+  color: rgb(231, 218, 190);
   animation-duration: 3s;
   animation-delay: 2s;
   animation-iteration-count: infinite;
@@ -2293,9 +2293,9 @@ body > article {
 }
 
 #top h1 {
+  font-size: 4.5em;
   margin-top: 0.35em;
-
-
+  color: goldenrod;
 }
 
 #top p {
